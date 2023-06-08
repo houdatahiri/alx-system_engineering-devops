@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 pwd betty
+=======
+su betty
+>>>>>>> 25a02e85b6d47a7bbd8fea321c58e544cf5f3820

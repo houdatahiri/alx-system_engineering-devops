@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Displays "To infinity and beyond"
 #+ a sleep 2 in between
-# Displays "I am invinvibe!!!"
+# Displays "I am invincible!!!"
 
 while true
 do

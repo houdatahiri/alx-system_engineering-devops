@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Displays the contents
+#   Only displays the part of the name
+
+list=$(ls)
+for i in $list: 
+do
+  echo "$i" | cut -d '-' -f2
+done

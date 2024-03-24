@@ -1,4 +1,3 @@
-#!/bin/bash
-
+#!/usr/bin/env bash
 #connect to the server uding SSH
-ssh -i ~/.ssh/school ubunto@3.86.7.239
+ssh -i ~/.ssh/school ubunto@54.237.0.241

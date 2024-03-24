@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#connect to the server uding SSH
+ssh -i ~/.ssh/school ubunto@3.86.7.239
